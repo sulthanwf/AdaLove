@@ -1,6 +1,7 @@
-# ada_love
+# AdaLove
 
-A new Flutter project.
+Gamifying programming learning process by AdaLove.
+This project is created and developed by Luis & Sulthan
 
 ## Getting Started
 
